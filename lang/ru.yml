@@ -1,0 +1,19 @@
+customer_title: Клиенты
+label_customer: Клиенты
+label_customer_plural: Список клиентов
+label_customer_information: Информация о клиенте
+label_customer_edit_information: Редактирование информации о клиенте
+label_customer_assign_to_project: Связать клиента с проектом
+label_customer_view: Посмотреть
+label_customer_assign: Назначить
+label_customer_list: Список
+label_customer_new: Новый
+field_customer_name: Имя
+field_customer_company: Компания
+field_customer_address: Адрес
+field_customer_phone: Телефон
+field_customer_email: Email
+field_customer_website: Сайт
+field_customer_skype: Skype
+notice_successful_save: Сохранено
+notice_unsuccessful_save: Не сохранено
