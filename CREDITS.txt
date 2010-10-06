@@ -10,3 +10,6 @@ Michele Franzin
 
 Pau Garcia i Quiles
 - Catalan translation
+
+Alexander Sapozhnikov <shoorick[AT]cpan[DOT]org>
+- Russian translation
