@@ -17,3 +17,8 @@ field_customer_website: Сайт
 field_customer_skype: Skype
 notice_successful_save: Сохранено
 notice_unsuccessful_save: Не сохранено
+project_module_customer_module: Клиенты
+permission_view_customer: Просмотр клиента
+permission_assign_customer: Связывание клиента с проектами
+permission_see_customer_list: Просмотр списка клиентов
+permission_edit_customer: Редактирование клиента

@@ -3,7 +3,7 @@ ru:
   label_customer: Клиенты
   label_customer_plural: Список клиентов
   label_customer_information: Информация о клиенте
-  label_customer_edit_information: Редактирование информации о клиенте
+  label_customer_edit_information: Изменить информацию о клиенте
   label_customer_assign_to_project: Связать клиента с проектом
   label_customer_view: Посмотреть
   label_customer_assign: Назначить
@@ -18,3 +18,8 @@ ru:
   field_customer_skype: Skype
   notice_successful_save: Сохранено
   notice_unsuccessful_save: Не сохранено
+  project_module_customer_module: Клиенты
+  permission_view_customer: Просмотр клиента
+  permission_assign_customer: Связывание клиента с проектами
+  permission_see_customer_list: Просмотр списка клиентов
+  permission_edit_customer: Редактирование клиента
